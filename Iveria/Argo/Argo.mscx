@@ -231,6 +231,8 @@ p, li { white-space: pre-wrap; }
         <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
+          <Tie>
+            </Tie>
           </Note>
         </Chord>
       <Chord>
@@ -287,8 +289,16 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
+          <pitch>69</pitch>
+          <tpc>17</tpc>
+          <Tie>
+            </Tie>
+          </Note>
+        <Note>
           <pitch>72</pitch>
           <tpc>14</tpc>
+          <Tie>
+            </Tie>
           </Note>
         </Chord>
       <Chord>
@@ -297,12 +307,19 @@ p, li { white-space: pre-wrap; }
           <pitch>69</pitch>
           <tpc>17</tpc>
           </Note>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>14</tpc>
+          </Note>
         </Chord>
       <Rest>
         <durationType>eighth</durationType>
         </Rest>
       <Rest>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
+        </Rest>
+      <Rest>
+        <durationType>eighth</durationType>
         </Rest>
       </Measure>
     <Measure number="5">
@@ -326,5 +343,5 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>-1</cursorTrack>
+  <cursorTrack>0</cursorTrack>
   </museScore>
