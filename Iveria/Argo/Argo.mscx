@@ -86,7 +86,7 @@ p, li { white-space: pre-wrap; }
     </Part>
   <Staff id="1">
     <VBox>
-      <height>10</height>
+      <height>15.28</height>
       <leftMargin>5</leftMargin>
       <rightMargin>5</rightMargin>
       <topMargin>5</topMargin>
@@ -130,7 +130,7 @@ p, li { white-space: pre-wrap; }
 <table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
 <tr>
 <td style="border: none;">
-<p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">А.Басилай</p></td></tr></table></body></html>
+<p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">музыка А.Басилай</p></td></tr></table></body></html>
           </html-data>
         </Text>
       <Text>
@@ -144,7 +144,8 @@ p, li { white-space: pre-wrap; }
 <table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
 <tr>
 <td style="border: none;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Д.Багашвили, /перевод Ю.Ряшенцев/</p></td></tr></table></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">слова Д.Багашвили</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">перевод Ю.Ряшенцев</p></td></tr></table></body></html>
           </html-data>
         </Text>
       </VBox>
@@ -286,7 +287,6 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
-          <selected>1</selected>
           <pitch>72</pitch>
           <tpc>14</tpc>
           </Note>
@@ -326,5 +326,5 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>0</cursorTrack>
+  <cursorTrack>-1</cursorTrack>
   </museScore>
